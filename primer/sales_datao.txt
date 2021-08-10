@@ -1,0 +1,3 @@
+ISBN:  xa Copies:  3  Renevue:  8
+ISBN:  uu Copies:  2  Renevue:  2
+ISBN:  xxx Copies:  222  Renevue:  24642

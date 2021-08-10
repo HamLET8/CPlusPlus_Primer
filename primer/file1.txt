@@ -1,0 +1,13 @@
+ll
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }
+	StrBlobPtr(StrBlob& a,size_t sz = 0): wptr(a.data), crr(sz) { }

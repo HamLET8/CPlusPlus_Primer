@@ -1,0 +1,6 @@
+wind 1 50.00
+wind 1 30.00
+grown 2 30.00
+grown 3 10.00
+grown 1 30.00
+tree 3 20.00
